@@ -1,0 +1,5 @@
+This project is an outcome of the 15 days online training on PYTHON PROGRAMMING  conducted by KHWOPA COLLEGE OF ENGINEERING. 
+This project is about HANGMAN GAME using GUI MODULE - TKINTER 
+I completed this game with the assist from google, ms paint and buttonoptimizer.com 
+In ths game, first a random word is selected then user is asked for guessing alphabets. 
+If the no. of wrong choice exceeds 6, the game overs and if the no of correct choice is equal to length of selected word he wins. 
